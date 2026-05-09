@@ -3,7 +3,8 @@
 ## 📊 Dashboard Preview
 
 ### AI Job Market Dashboard
-<img width="1742" height="819" alt="image" src="https://github.com/user-attachments/assets/e6b9ee93-e03b-4940-9f44-2657c8da03dc" />
+<img width="1742" height="819" alt="image" src="https://github.com/user-attachments/assets/0af91010-9990-4a83-a992-336b1fa6886e" />
+
 
 
 ---
